@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinahak
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Cleaning Projects and Data Viz
+- 👀 Data Analyst
+- 🌱 Python,R ,SQL
+- 💞️ Research analysis, Data Viz and Cloud Computing 
 - 📫 How to reach me dinakaria2@gmail.com
 
 <!---
