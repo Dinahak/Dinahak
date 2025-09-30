@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dinah Karia
-- 👀 Data Analyst
-- 🌱 Python,R ,SQL
-- 💞️ Research analysis, Data Viz and Cloud Computing 
+- 👋 Hi, I’m Dinah Karia.
+- 👀 Data Scientist , Bsc IT , Msc Analytics.
+- 🌱 Python, R ,SQL.
+- 💞️ Research Analysis and Modeling ,ScikitLearn ,Pandas ,Neural networks.
 - 📫 How to reach me dinakaria2@gmail.com
 
 <!---
