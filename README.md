@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinahak
+- 👋 Hi, I’m Dinah Karia
 - 👀 Data Analyst
 - 🌱 Python,R ,SQL
 - 💞️ Research analysis, Data Viz and Cloud Computing 
